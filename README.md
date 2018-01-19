@@ -8,3 +8,4 @@
 
 - [https://github.com/oblac/jodd/issues?q=is%3Aissue+author%3Asdcuike+is%3Aclosed](https://github.com/oblac/jodd/issues?q=is%3Aissue+author%3Asdcuike+is%3Aclosed)
 
+- [https://github.com/mybatis/mybatis-3/issues?q=is%3Aissue+author%3Asdcuike+is%3Aclosed](https://github.com/mybatis/mybatis-3/issues?q=is%3Aissue+author%3Asdcuike+is%3Aclosed)
